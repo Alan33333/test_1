@@ -5,5 +5,6 @@ public class Demo1 {
 		System.out.println("Git test.....");
 		System.out.println("modify by test_1");
 		System.out.println("modify by test_2");
+		System.out.println("add hot_fix branch");
 	}
 }
